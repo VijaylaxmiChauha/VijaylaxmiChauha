@@ -5,7 +5,7 @@
 - 💞️ I’m excited to dive into the dynamic and fast growing industory , from analyzing large dataset to extracting valuable information.
 - 📫 i would like to invite you to my journey and introduce to my upcomming projects.
 - 😄 thanks and regards.
-- ⚡ Fun fact: ...
+
 
 <!---
 VijaylaxmiChauha/VijaylaxmiChauha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
